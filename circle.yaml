@@ -1,3 +1,5 @@
+CIRCLE_BUILD_IMAGE=ubuntu-12.04
+
 machine:
   php:
     version: 7.0.4
