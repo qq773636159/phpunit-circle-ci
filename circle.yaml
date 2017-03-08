@@ -1,0 +1,10 @@
+machine:
+  php:
+    version: 7.0.15
+
+
+
+
+test:
+  override:
+      - vendor/bin/phpunit
