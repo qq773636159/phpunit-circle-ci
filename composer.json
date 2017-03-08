@@ -14,5 +14,10 @@
             "name": "ronizzle",
             "email": "roniel44@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ronizzle\\TestComposer\\": "./src"
+        }
+    }
 }

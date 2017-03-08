@@ -1,6 +1,7 @@
 <?php
+namespace Ronizzle\TestComposer;
 
-class HelloWorld
+class HelloWorld extends Lmao
 {
 
 }
